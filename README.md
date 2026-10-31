@@ -1,4 +1,4 @@
-# エージェント戦略
+# エージェントルール
 
 - [コーディングルール](rules/coding.md)
 - [Shellルール](rules/shell.md)
