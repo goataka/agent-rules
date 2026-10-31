@@ -1,3 +1,5 @@
+# エージェント戦略
+
 - [コーディングルール](rules/coding.md)
 - [Shellルール](rules/shell.md)
 - [テストルール](rules/test.md)
