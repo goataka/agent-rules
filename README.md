@@ -18,7 +18,7 @@
 - [ドキュメントルール](rules/documentation.md)
   - 対象：ドキュメントの作成・修正
 - [PRルール](rules/pull-request.md)
-  - 対象：PRの作成・分割・マージ
+  - 対象：PRの作成・分割・説明文・マージ
 - [応答ルール](rules/response.md)
   - 対象：ユーザーへの応答
   - 適用：常に適用
