@@ -1,8 +1,14 @@
 # エージェントルール
 
-- [アーキテクチャルール](rules/architecture.md)
-- [コーディングルール](rules/coding.md)
-- [Shellルール](rules/shell.md)
-- [テストルール](rules/test.md)
-- [ドキュメントルール](rules/documentation.md)
-- [応答ルール](rules/response.md)
+- **エージェント指示**：[Agent.md](Agent.md)
+- **ルール一覧**：[rules](rules/)
+
+## 作業内容別のルール
+
+- **技術選定、依存関係、品質とリリースの設計・変更**：[アーキテクチャルール](rules/architecture.md)
+- **コードの作成・修正・レビュー**：[コーディングルール](rules/coding.md)
+- **シェルスクリプトの作成・修正**：[Shellルール](rules/shell.md)
+- **テストコードの作成・修正**：[テストルール](rules/test.md)
+- **ドキュメントの作成・修正**：[ドキュメントルール](rules/documentation.md)
+- **ユーザーへの応答**：[応答ルール](rules/response.md)（常に適用）
+- **複数に該当する場合**：すべてのルールに従う
