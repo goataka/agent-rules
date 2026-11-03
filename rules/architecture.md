@@ -21,3 +21,4 @@
 - **CI/CDを整備**：ビルド、テスト、デプロイを自動化する
 - **自動テストを整備**：変更ごとに自動で検証する
 - **常にリリース可能**：CI/CDと自動テストにより品質を維持する
+- **大規模な変更は[Stacked PR](https://docs.github.com/en/pull-requests/get-started/about-stacked-prs)**：リファクタリングやファイル移動など、大規模でレビューが難しくなる変更は、段階ごとに分けたStacked PRで提出する
