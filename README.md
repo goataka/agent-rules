@@ -20,6 +20,8 @@
   - 適用：常に適用
 - [PRルール](rules/pull-request.md)
   - 対象：PRの作成・分割・説明文・マージ
+- [自動チェックルール](rules/lint.md)
+  - 対象：Lint、整形、CIでの自動チェックの導入と設定
 - [応答ルール](rules/response.md)
   - 対象：ユーザーへの応答
   - 適用：常に適用
