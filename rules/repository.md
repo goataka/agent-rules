@@ -1,9 +1,5 @@
 # リポジトリ管理ルール
 
-## 一覧の管理
-
-- **goataka のリポジトリの場合**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
-
 ## 並び順
 
 - **基準**：利用頻度の高い順
@@ -27,17 +23,14 @@
 
 ### 公開リポジトリの追加条件
 
-公開リポジトリのみに適用する条件は2項目とする
+公開リポジトリのみに適用する条件は1項目とする
 
 7. **自動マージ**：Allow auto-merge を有効にする
-8. **Interaction limits**：Limit to repository collaborators を最長の6か月で有効にする
-   - 注意：期限になると自動解除されるため、再設定する
-   - 補足：解除後も条件2により関係者のみは維持される
 
 ## 反映状況
 
 - **表記**：反映済みの項目数/対象の項目数
-- **対象項目数**：公開リポジトリは条件1〜8の8項目、非公開リポジトリは条件1〜6の6項目
+- **対象項目数**：公開リポジトリは条件1〜7の7項目、非公開リポジトリは条件1〜6の6項目
 - **状態**：
   - **反映済み**：すべて反映
   - **一部反映**：一部のみ反映
@@ -50,4 +43,7 @@
 - **リポジトリの追加時**：設定条件を反映し、並び順に従う位置に一覧へ追加する
 - **設定の変更後**：設定画面の値を読み直し、想定どおりであることを確認する
 - **一覧の更新**：設定やコミット数が変わったら、反映状況と並び順を更新する
-- **Interaction limits**：自動解除の前に再設定する
+
+## 一覧の管理
+
+- **goataka のリポジトリの場合**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
