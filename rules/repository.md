@@ -28,14 +28,3 @@
 ## goatakaの場合
 
 - **一覧の管理**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
-
-### 並び順
-
-- **基準**：利用頻度の高い順
-- **指標**：既定ブランチの直近1年のコミット数の降順
-- **同数の場合**：直近3か月のコミット数の降順、次にリポジトリ名の順
-
-### 運用
-
-- **リポジトリの追加時**：設定条件を反映し、並び順に従う位置に一覧へ追加する
-- **一覧の更新**：設定やコミット数が変わったら、並び順を更新する
