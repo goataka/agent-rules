@@ -44,6 +44,6 @@
 - **設定の変更後**：設定画面の値を読み直し、想定どおりであることを確認する
 - **一覧の更新**：設定やコミット数が変わったら、反映状況と並び順を更新する
 
-## 一覧の管理
+## goatakaの場合
 
-- **goataka のリポジトリの場合**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
+- **一覧の管理**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
