@@ -2,12 +2,7 @@
 
 ## 一覧の管理
 
-- **管理先**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) にリポジトリ一覧を置く
-- **詳細**：[REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に並び順、設定条件、反映状況の見方を置く
-- **対象**：所有する全リポジトリとし、フォークも含める
-- **区分**：非公開と公開で表を分け、非公開を上に置く
-- **列**：リポジトリ、説明、反映状況の3列とする
-- **説明**：説明のないリポジトリは「—」とする
+- **goataka のリポジトリの場合**：[service-desk](https://github.com/goataka/service-desk) の [README](https://github.com/goataka/service-desk/blob/main/README.md) と [REPOSITORY_MANAGEMENT.md](https://github.com/goataka/service-desk/blob/main/REPOSITORY_MANAGEMENT.md) に従う
 
 ## 並び順
 
