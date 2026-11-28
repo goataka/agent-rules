@@ -3,6 +3,7 @@
 ## Stacked PR
 
 - **使う条件**：リファクタリングやファイル移動など、大規模でレビューが難しくなる変更は、Stacked PRで提出する
+- **続けて作業する場合**：マージ待ちのPRがあるときは、その上に重ねる
 - **参考**：[About stacked PRs](https://docs.github.com/en/pull-requests/get-started/about-stacked-prs)
 - **構成**：一番下のPRはデフォルトブランチを base にし、上のPRは直下のPRのブランチを base にする
 - **層の分け方**：関心が変わるとき（例：バックエンドとフロントエンド、ロジックとテスト）や、層が大きくなりすぎたときに新しい層を作る
